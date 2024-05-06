@@ -9,7 +9,7 @@ global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Hansel20px"
 global.location = "CAMEROON "
 
-global.botname = process.env.BOTNAME || "HANSEL-MD",//name of the bot
+global.botname = process.env.BOTNAME || "Maria-MD",//name of the bot
 
 //sticker details
 global.stickername = process.env.STICKER || "💙HANSEL",
